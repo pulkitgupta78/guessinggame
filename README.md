@@ -1,5 +1,5 @@
-#Guessing Game by Pulkit Gupta#
-##Part of final project for The Unix Workbench Course on Coursera##
+# Guessing Game by Pulkit Gupta
+## Part of final project for The Unix Workbench Course on Coursera
 This file was create on 
 Sun Apr 25 13:41:53 IST 2021
 Accompanying this is a file called *guessinggame.sh*
