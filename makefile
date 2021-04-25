@@ -2,8 +2,8 @@ all: README.md
 
 README.md:
 	touch README.md
-	echo "#Guessing Game by Pulkit Gupta#" >> README.md
-	echo "##Part of final project for The Unix Workbench Course on Coursera##" >> README.md
+	echo "# Guessing Game by Pulkit Gupta" >> README.md
+	echo "## Part of final project for The Unix Workbench Course on Coursera" >> README.md
 	echo "This file was create on " >> README.md
 	date >> README.md
 	echo "Accompanying this is a file called *guessinggame.sh*" >> README.md
